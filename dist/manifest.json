@@ -1,0 +1,10 @@
+{
+  "main.js": "bundle.js",
+  "img/logo2.svg": "img/logo2.svg",
+  "img/meal2.jpg": "img/meal2.jpg",
+  "img/meal3.jpg": "img/meal3.jpg",
+  "img/meal4.jpg": "img/meal4.jpg",
+  "img/mouse.svg": "img/mouse.svg",
+  "img/search-icon.svg": "img/search-icon.svg",
+  "index.html": "index.html"
+}
